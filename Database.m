@@ -2,11 +2,9 @@
 /********************************************************************************\
  *
  * File Name       Database.m
- * Author          $Author:: gaurav.thummar  $: Author of last commit
- * Version         $Revision:: 03             $: Revision of last commit
- * Modified        $Date:: 2012-08-24 14:38:49#$: Date of last commit
- * 
- * Copyright(c) 2012 IndiaNIC.com. All rights reserved.
+ * Author          $Author:: Mital Solanki      $: Author of last commit
+ * Version         $Revision:: 01               $: Revision of last commit
+ * Modified        $Date:: 2014-07-07 16:02:00  $: Date of last commit
  *
  \********************************************************************************/
 
